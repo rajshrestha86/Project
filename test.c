@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-int doko;
+int poko;
 print("Hello World");
 return 0;
 
